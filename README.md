@@ -32,6 +32,8 @@ Meine Schwerpunkte sind:
 ### Backend & Datenbanken
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge\&logo=Java)
+![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge\&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase)
@@ -41,7 +43,6 @@ Meine Schwerpunkte sind:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 
 ---
 
