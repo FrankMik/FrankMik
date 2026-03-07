@@ -60,16 +60,20 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankMik\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankMik&show_icons=true&theme=github_dark)
 
 ---
 
 # 📫 Kontakt
 
-LinkedIn: https://www.linkedin.com/in/michael-frank-977626372/
-Email: [michael-frank88@gmx.de](mailto:michael-frank88@gmx.de)
+## 📫 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Frank-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-frank-977626372/)
+
+[![Email](https://img.shields.io/badge/Email-michael--frank88@gmx.de-red?style=for-the-badge&logo=gmail)](mailto:michael-frank88@gmx.de)
+
 GitHub: https://github.com/FrankMik
 
 
