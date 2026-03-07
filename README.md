@@ -54,7 +54,8 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 ## Projekte
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-316192?style=for-the-badge&logo=portfolio)](https://github.com/FrankMik/Portfolio-react)
+[![Portfolio](https://img.shields.io/badge/Portfolio-316192?style=for-the-badge&logo=portfolio)]((https://frankmik.github.io/Portfolio-react/)
+[![Schere-Stein-Papier-Minispiel](https://img.shields.io/badge/Minispiel-316192?style=for-the-badge&logo=minispiel)]()
 ---
 
 # 📜 Zertifikate
