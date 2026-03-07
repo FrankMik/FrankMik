@@ -2,9 +2,7 @@
 
 > Vom technischen Handwerk zur Softwareentwicklung – mit Fokus auf präzise und saubere Lösungen.
 
-Ich bin angehender **Softwareentwickler aus Deutschland** mit Fokus auf Webentwicklung, Datenbanken und moderne Softwarelösungen.
-
-Ich arbeite gerne strukturiert, löse technische Probleme systematisch und entwickle praktische Anwendungen.
+Ich bin angehender Softwareentwickler aus Deutschland mit Fokus auf Webentwicklung, Backend-Systeme und moderne Softwarelösungen.
 
 ---
 
@@ -13,12 +11,12 @@ Ich arbeite gerne strukturiert, löse technische Probleme systematisch und entwi
 Ich interessiere mich besonders für:
 
 * Webentwicklung
-* Backend-Systeme
+* Backend Entwicklung
 * Datenbanken
-* saubere Softwarearchitektur
+* strukturierte Softwarearchitektur
 * effiziente Problemlösungen
 
-Mein Ziel ist es, mich kontinuierlich weiterzuentwickeln und robuste Softwarelösungen zu entwickeln.
+Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und meine Fähigkeiten kontinuierlich auszubauen.
 
 ---
 
@@ -26,15 +24,23 @@ Mein Ziel ist es, mich kontinuierlich weiterzuentwickeln und robuste Softwarelö
 
 ## Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 
 ---
 
-## Backend & Datenbanken
+## Backend
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+
+---
+
+## Datenbanken
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb)
 
@@ -43,49 +49,28 @@ Mein Ziel ist es, mich kontinuierlich weiterzuentwickeln und robuste Softwarelö
 ## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
 
 ---
 
 # 📜 Zertifikate
 
-Geplante bzw. abgeschlossene Weiterbildungen:
-
-* Scrum
-* Java
-* Python
-
-(Die Zertifikate werden hier ergänzt, sobald sie abgeschlossen sind.)
-
----
-
-# 🚀 Aktuell lerne ich
-
-* moderne JavaScript Entwicklung
-* Backend Architektur
-* Datenbankdesign
-* Software Engineering Best Practices
+![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge)
 
 ---
 
 # 📊 GitHub Stats
 
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankMik\&show_icons=true\&theme=github_dark)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FrankMik\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankMik\&show_icons=true\&theme=github_dark)
 
 ---
 
 # 📫 Kontakt
 
-GitHub: https://github.com/FrankMik
 LinkedIn: https://www.linkedin.com/in/michael-frank-977626372/
-E-Mail: michael-frank88@gmx.de
-
+Email: [michael-frank88@gmx.de](mailto:michael-frank88@gmx.de)
+GitHub: https://github.com/FrankMik
 
 
 <!--
