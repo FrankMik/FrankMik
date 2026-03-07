@@ -52,6 +52,11 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 ---
 
+## Projekte
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-316192?style=for-the-badge&logo=portfolio)]()
+---
+
 # 📜 Zertifikate
 
 [![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/Professional%20Scrum%20Master%20I.pdf)
