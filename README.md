@@ -54,27 +54,25 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 # 📜 Zertifikate
 
-![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge)
+[![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)](https://www.linkedin.com/in/michael-frank-977626372/overlay/Certifications/2084646704/treasury/?profileId=ACoAAFxI9-sBUImq4ftkyI2PXwZ2YBMwYr-pwug)
+[![Java](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge)](https://www.linkedin.com/in/michael-frank-977626372/overlay/Certifications/2084646704/treasury/?profileId=ACoAAFxI9-sBUImq4ftkyI2PXwZ2YBMwYr-pwug)
 ![Python](https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrankMik&show_icons=true&theme=github_dark)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankMik&show_icons=true&theme=tokyonight)
 
 ---
-
-# 📫 Kontakt
 
 ## 📫 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Frank-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-frank-977626372/)
 
-[![Email](https://img.shields.io/badge/Email-michael--frank88@gmx.de-red?style=for-the-badge&logo=gmail)](mailto:michael-frank88@gmx.de)
+[![GitHub](https://img.shields.io/badge/GitHub-FrankMik-black?style=for-the-badge&logo=github)](https://github.com/FrankMik)
 
-GitHub: https://github.com/FrankMik
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:michael-frank88@gmx.de)
 
 
 <!--
