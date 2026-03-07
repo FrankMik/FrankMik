@@ -1,74 +1,91 @@
-# Hallo, ich bin Michael! 👋
+# Hallo, ich bin Michael 👋
 
-> Präzision trifft Code.
+> Vom technischen Handwerk zur Softwareentwicklung – mit Fokus auf präzise und saubere Lösungen.
 
-Ich bin angehender Softwareentwickler aus Deutschland und beschäftige mich mit moderner Webentwicklung, Datenbanken und Automatisierung.
+Ich bin angehender **Softwareentwickler aus Deutschland** mit Fokus auf Webentwicklung, Datenbanken und moderne Softwarelösungen.
+
+Ich arbeite gerne strukturiert, löse technische Probleme systematisch und entwickle praktische Anwendungen.
 
 ---
 
-## 👨‍💻 Über mich
+# 👨‍💻 Über mich
 
-Vom technischen Hintergrund in die Softwareentwicklung:
-Ich verbinde logisches Denken, technisches Verständnis und strukturiertes Arbeiten mit moderner Entwicklung.
-
-Meine Schwerpunkte sind:
+Ich interessiere mich besonders für:
 
 * Webentwicklung
+* Backend-Systeme
 * Datenbanken
-* Automatisierung
-* saubere und effiziente Softwarelösungen
+* saubere Softwarearchitektur
+* effiziente Problemlösungen
+
+Mein Ziel ist es, mich kontinuierlich weiterzuentwickeln und robuste Softwarelösungen zu entwickeln.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend Entwicklung
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 
-### Backend & Datenbanken
+---
+
+## Backend & Datenbanken
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge\&logo=Java)
-![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge\&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase)
 
-### Tools & Automatisierung
+---
+
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
 
 ---
 
-## 📜 Zertifikate
+# 📜 Zertifikate
+
+Geplante bzw. abgeschlossene Weiterbildungen:
 
 * Scrum
 * Java
 * Python
 
+(Die Zertifikate werden hier ergänzt, sobald sie abgeschlossen sind.)
+
 ---
 
-## 🚀 Aktuell lerne ich
+# 🚀 Aktuell lerne ich
 
-* moderne Webentwicklung
+* moderne JavaScript Entwicklung
 * Backend Architektur
-* Automatisierung von Prozessen
-* sichere Softwareentwicklung
+* Datenbankdesign
+* Software Engineering Best Practices
 
 ---
 
-## 📫 Kontakt
+# 📊 GitHub Stats
 
-LinkedIn: https://www.linkedin.com/in/michael-frank-977626372/
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankMik\&show_icons=true\&theme=github_dark)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FrankMik\&theme=dark)
+
+---
+
+# 📫 Kontakt
+
 GitHub: https://github.com/FrankMik
+LinkedIn: https://www.linkedin.com/in/michael-frank-977626372/
 E-Mail: michael-frank88@gmx.de
-Standort: Deutschland
+
 
 
 <!--
