@@ -60,12 +60,6 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMik&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Frank-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-frank-977626372/)
