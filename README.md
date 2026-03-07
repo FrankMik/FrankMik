@@ -54,7 +54,7 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 # 📜 Zertifikate
 
-[![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)](https://www.linkedin.com/in/michael-frank-977626372/overlay/Certifications/2084646704/treasury/?profileId=ACoAAFxI9-sBUImq4ftkyI2PXwZ2YBMwYr-pwug)
+[![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)](https://www.linkedin.com/in/michael-frank-977626372/overlay/Certifications/2099896350/treasury?profileId=ACoAAFxI9-sBUImq4ftkyI2PXwZ2YBMwYr-pwug)
 [![Java](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge)](https://www.linkedin.com/in/michael-frank-977626372/overlay/Certifications/2084646704/treasury/?profileId=ACoAAFxI9-sBUImq4ftkyI2PXwZ2YBMwYr-pwug)
 ![Python](https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge)
 
@@ -62,7 +62,7 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 ## 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankMik&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMik&layout=compact&theme=tokyonight)
 
 ---
 
