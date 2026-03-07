@@ -54,7 +54,7 @@ Mein Ziel ist es, robuste und verständliche Softwarelösungen zu entwickeln und
 
 # 📜 Zertifikate
 
-[![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge(](https://github.com/FrankMik/certificates/blob/main/Professional%20Scrum%20Master%20I.pdf)
+[![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/Professional%20Scrum%20Master%20I.pdf)
 [![Java](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/Certificate_Java.pdf)
 ![Python](https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge)
 
