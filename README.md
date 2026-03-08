@@ -28,7 +28,8 @@ React-basierte Portfolioseite mit Projekten und Kontaktformular
 [![Portfolio](https://img.shields.io/badge/Portfolio-316192?style=for-the-badge&logo=portfolio)](https://frankmik.github.io/Portfolio-react/) 
 
 ### Scrum-Master-Quiz
-[![Quiz](https://img.shields.io/badge/Quiz-316192?style=for-the-badge&logo=quiz)]()
+Eigenständige Quiz-Webanwendung zur Vorbereitung auf Scrum-Themen, umgesetzt mit HTML, CSS und JavaScript, inklusive Auswertung und Feedback-Logik.
+[![Quiz](https://img.shields.io/badge/Quiz-316192?style=for-the-badge&logo=quiz)](https://frankmik.github.io/Scrum-Master-Quiz/)
 
 ### Clicker Race Game
 Kleines Browser-Spiel mit React und Vite  
