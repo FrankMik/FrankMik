@@ -28,7 +28,11 @@ React-basierte Portfolioseite mit Projekten und Kontaktformular
 
 ### Clicker Race Game
 Kleines Browser-Spiel mit React und Vite  
-[![Schere-Stein-Papier-Minispiel](https://img.shields.io/badge/Minispiel-316192?style=for-the-badge&logo=minispiel)](https://frankmik.github.io/schere-stein-papier/)
+[![Clicker Game](https://img.shields.io/badge/Minispiel-316192?style=for-the-badge&logo=minispiel)](https://frankmik.github.io/clicker-race/)
+
+### Schere, Stein, Papier
+Kleines Browser-Spiel mit HTML,CSS und JS
+[![Schere-Stein-Papier](https://img.shields.io/badge/Minispiel-316192?style=for-the-badge&logo=minispiel)(https://frankmik.github.io/schere-stein-papier/)
 
 ---
 
