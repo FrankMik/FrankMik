@@ -2,7 +2,7 @@
 
 > Vom technischen Handwerk zur Softwareentwicklung – mit Fokus auf präzise und saubere Lösungen.
 
-Ich bin angehender Softwareentwickler aus Deutschland mit Fokus auf Webentwicklung, Backend-Systeme und moderne Softwarelösungen.
+Ich bin angehender Fachinformatiker für Anwendungsentwicklung (IHK) mit Fokus auf Webentwicklung, Backend-Systeme und moderne Softwarelösungen.
 
 ---
 
