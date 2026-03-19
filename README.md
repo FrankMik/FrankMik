@@ -27,6 +27,11 @@ React-basierte Portfolioseite mit Projekten und Kontaktformular
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-316192?style=for-the-badge&logo=portfolio)](https://frankmik.github.io/Portfolio-react/) 
 
+### 🔧 Mini Social Media *(in Entwicklung)*
+Full-Stack Social-Media-Demo mit Node.js, Express, MariaDB, HTML, CSS und JavaScript.
+
+[![Repo](https://img.shields.io/badge/GITHUB-REPO-black?style=for-the-badge&logo=github)](https://github.com/FrankMik/mini-socialmedia-demo)
+
 ### Scrum-Master-Quiz
 Eigenständige Quiz-Webanwendung zur Vorbereitung auf Scrum-Themen, umgesetzt mit HTML, CSS und JavaScript, inklusive Auswertung und Feedback-Logik.               
 
