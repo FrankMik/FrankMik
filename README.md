@@ -85,8 +85,8 @@ Kleines Browser-Spiel mit HTML,CSS und JS
 
 [![Scrum](https://img.shields.io/badge/Scrum-Certified-blue?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/Professional%20Scrum%20Master%20I.pdf)
 [![Java](https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/Certificate_Java.pdf)
-[![Python](https://img.shields.io/badge/Python-Certified-blue?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/certificate_Python.pdf)
-[![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/certificate_Python.pdf)
+[![Python](https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/certificate_Python.pdf)
+[![AWS](https://img.shields.io/badge/AWS-Certified-black?style=for-the-badge)](https://github.com/FrankMik/certificates/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ---
 
