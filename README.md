@@ -32,6 +32,11 @@ Full-Stack Social-Media-Demo mit Node.js, Express, MariaDB, HTML, CSS und JavaSc
 
 [![Repo](https://img.shields.io/badge/GITHUB-REPO-black?style=for-the-badge&logo=github)](https://github.com/FrankMik/mini-socialmedia-demo)
 
+### QR-code generation
+Kostenloser QR-Code Generator – 100% im Browser, kein Server, kein Tracking.
+
+[![QR Forge](https://img.shields.io/badge/QR_FORGE-316192?style=for-the-badge&logo=qr-forge))](https://frankmik.github.io/qr-forge/)
+
 ### Scrum-Master-Quiz
 Eigenständige Quiz-Webanwendung zur Vorbereitung auf Scrum-Themen, umgesetzt mit HTML, CSS und JavaScript, inklusive Auswertung und Feedback-Logik.               
 
