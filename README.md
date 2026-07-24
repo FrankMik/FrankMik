@@ -45,7 +45,7 @@ Eigenständige Quiz-Webanwendung zur Vorbereitung auf Scrum-Themen, umgesetzt mi
 ### community-marketplace-php
 Full-stack web app (PHP 8, SQLite, Bootstrap 5) with user roles, admin moderation, and CSRF/XSS protection 
 
-[![community-marketplace](https://img.shields.io/badge/community-marketplace-316192?style=for-the-badge&logo=minispiel)](http://michaelfrank.bplaced.net/fallstudie/)
+[![community-marketplace](https://img.shields.io/badge/communityMarketplace-316192?style=for-the-badge&logo=minispiel)](http://michaelfrank.bplaced.net/fallstudie/)
 
 ### Schere, Stein, Papier
 Kleines Browser-Spiel mit HTML,CSS und JS                                                                                                               
