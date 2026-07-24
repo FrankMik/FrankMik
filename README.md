@@ -42,10 +42,10 @@ Eigenständige Quiz-Webanwendung zur Vorbereitung auf Scrum-Themen, umgesetzt mi
 
 [![Quiz](https://img.shields.io/badge/Quiz-316192?style=for-the-badge&logo=quiz)](https://frankmik.github.io/Scrum-Master-Quiz/)
 
-### Clicker Race Game
-Kleines Browser-Spiel mit React und Vite  
+### community-marketplace-php
+Full-stack web app (PHP 8, SQLite, Bootstrap 5) with user roles, admin moderation, and CSRF/XSS protection 
 
-[![Clicker Game](https://img.shields.io/badge/Minispiel-316192?style=for-the-badge&logo=minispiel)](https://frankmik.github.io/clicker-race/)
+[![community-marketplace](https://img.shields.io/badge/Minispiel-316192?style=for-the-badge&logo=minispiel)](https://frankmik.github.io/community-marketplace-php/)
 
 ### Schere, Stein, Papier
 Kleines Browser-Spiel mit HTML,CSS und JS                                                                                                               
