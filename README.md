@@ -2,7 +2,7 @@
 
 > Vom technischen Handwerk zur Softwareentwicklung – mit Fokus auf strukturierte Problemlösung und saubere, wartbare Software.
 
-Ich bin angehender Fachinformatiker für Anwendungsentwicklung (IHK) mit Fokus auf Webentwicklung, Backend-Systeme und moderne Softwarelösungen.
+Ich bin angehender Fachinformatiker für Anwendungsentwicklung (IHK) mit Fokus auf Webentwicklung, Backend-Systeme, KI gestützte und moderne Softwarelösungen.
 
 ---
 
